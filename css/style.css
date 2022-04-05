@@ -1,3 +1,15 @@
 body {
-	background-color:  HSL(44, 83%, 59%);
+	background-color:  orange;
+}
+
+h1 {
+	color: RGB(199, 111, 0);
+}
+
+h2 {
+	color: RGB(199, 111, 0);
+}
+
+h3 {
+	color: RGB(199, 111, 0);
 }
